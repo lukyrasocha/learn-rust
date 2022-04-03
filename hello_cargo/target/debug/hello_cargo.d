@@ -1,0 +1,1 @@
+/Users/co2yd4bcjgh6/Library/CloudStorage/OneDrive-Personal/myWorkspace/github/learn-rust/hello_cargo/target/debug/hello_cargo: /Users/co2yd4bcjgh6/Library/CloudStorage/OneDrive-Personal/myWorkspace/github/learn-rust/hello_cargo/src/main.rs
